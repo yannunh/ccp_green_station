@@ -37,7 +37,7 @@
 * 3~5월은 선행연구를 통해 시티트리의 원리를 파악해 개량점 및 Green Station만의 특별 기능들을 추가하기 위한 디자인을 한다. 선행연구는 1. 미세먼지의 이해와 현재 존재하는 미세먼지 처리 기술 2. 시티트리의 작동 방식, 시티트리에 사용되는 이끼종의 미세먼지 정화 메커니즘 파악 3. 시스템의 상태 유지에 필요한 환경 요소와 제공해야 할 최적 환경 데이터, 4. 실제로 설치, 제작이 가능한 저가형 센서와 엑츄에이터 후보 선정등이 있다.
 선정한 후보 식물 중 몇가지 평가 항목을 만들어 실제로 실험을 해보고 Green Station에서 이용할 수 있는 식물종을 선정한다. sns 홍보를 통해 프로토타입의 피드백을 위한 베타테스터를 미리 모집해 둔다.  이와 함께 안드로이드 앱 프로토 타입을 제작하고 python서버 mongo db를 이용하여 이후의 실험을 수행할 간이 서버를 구축한다. 
 
-* 7~8월에는 1차 프로토타입을 제작할 예정이며, 1차 프로토타입은 서버 및 앱과 연동되지 않은 상태로, 하드웨어에 식물이 장착된 형태로, 각종 센서와 엑츄에이터의 수동 제어 코딩을 이용해 작동여부를 확인해 보는것이 목적이다. 이때 서버 및 어플리케이션은 동시에 개발 중이다. 베타테스터에게 프로토타입을 일정 기간 제공하고 평가 항목을 만들어 평가받고, 지도교수님과의 상의 후 프로토타입의 개선할 점을 찾는다. 9~11월에는 서버와 앱을 연동한 프로토타입을 제작하고 베타테스터에게 제공해 1차 때와 마찬가지로 개선점을 찾고 고친다. 12월~2월은 그동안의 Trial and Error를 반복해 얻은 final product를제작해 시의 허가를 구해 버스 정류장에 설치해 보고, 효과를 몇가지 항목을 통해 평가한다. 이후, 버스정류장 외 도로 중앙선 및 터널, 지하철 등 설치 확장을 위한 구상과 개발 도상국 등에 제공할 적정기술kit 용도 등 차후 응용에 관한 내용을 구상해본다 향후 CCP 프로젝트를 마친 후의 연구계획을 제시해보고, 상품화 방안을 모색해 볼 것이다.
+* 7-8월에는 1차 프로토타입을 제작할 예정이며, 1차 프로토타입은 서버 및 앱과 연동되지 않은 상태로, 하드웨어에 식물이 장착된 형태로, 각종 센서와 엑츄에이터의 수동 제어 코딩을 이용해 작동여부를 확인해 보는것이 목적이다. 이때 서버 및 어플리케이션은 동시에 개발 중이다. 베타테스터에게 프로토타입을 일정 기간 제공하고 평가 항목을 만들어 평가받고, 지도교수님과의 상의 후 프로토타입의 개선할 점을 찾는다. 9-11월에는 서버와 앱을 연동한 프로토타입을 제작하고 베타테스터에게 제공해 1차 때와 마찬가지로 개선점을 찾고 고친다. 12월~2월은 그동안의 Trial and Error를 반복해 얻은 final product를제작해 시의 허가를 구해 버스 정류장에 설치해 보고, 효과를 몇가지 항목을 통해 평가한다. 이후, 버스정류장 외 도로 중앙선 및 터널, 지하철 등 설치 확장을 위한 구상과 개발 도상국 등에 제공할 적정기술kit 용도 등 차후 응용에 관한 내용을 구상해본다 향후 CCP 프로젝트를 마친 후의 연구계획을 제시해보고, 상품화 방안을 모색해 볼 것이다.
 
 
 
@@ -64,8 +64,8 @@ Green Station 을 통해 다음과 같은 효과를 기대 할 수 있다.
 
 ##### Team Memeber
 ---
->[yannunh](https://github.com/yannunh), Korea University, Divison of Biotechnology
-[SoySourceSause](https://github.com/SoySourceSause), Korea University, School of Electrical Engineering 
-[coldreason](https://github.com/coldreason), Korea University, Dept of Computer Science and Engineering
-[smilehae](https://github.com/smilehae), Korea University, School of Electrical Engineering 
+>[yannunh](https://github.com/yannunh), Korea University, Divison of Biotechnology<br>
+[SoySourceSause](https://github.com/SoySourceSause), Korea University, School of Electrical Engineering <br>
+[coldreason](https://github.com/coldreason), Korea University, Dept of Computer Science and Engineering<br>
+[smilehae](https://github.com/smilehae), Korea University, School of Electrical Engineering <br>
 [YuHyun7](https://github.com/YuHyun7), Korea University, School of Electrical Engineering 
