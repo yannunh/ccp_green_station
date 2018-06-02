@@ -1,4 +1,6 @@
 # Green Station
+[git과 SourceTree](https://opentutorials.org/course/1492/8037)<br>
+[Git을 이용한 협업 워크플로우](http://blog.appkr.kr/learn-n-think/comparing-workflows/)<br>
 -------------
 ###### 개요
 제 10회 고려대학교 [Creative Challenger Program](http://ctl.korea.ac.kr/common.ctl?page=m3.m4) 참가팀의 하나인 Green Station은 IoT와 도시숲의 융합으로, 식물을 활용한 친환경 스마트 버스 정류장을 디자인하고 구현, 제작하는 것을 목적으로 한다. 
